@@ -3,7 +3,7 @@ export default function Home() {
     <main className="flex flex-1 flex-col items-center justify-center gap-4 px-6 text-center font-sans">
       <h1 className="text-3xl font-semibold tracking-tight">MyPal Hospitality</h1>
       <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-        Open this link on your iPhone to continue in the MyPal Hospitality app.
+        Click on the button below to view the apple-app-site-association file, which is required for the app to work properly.
       </p>
       <a
         href="/.well-known/apple-app-site-association"
